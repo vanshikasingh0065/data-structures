@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534742213 source:c:\users\vanshika\desktop\paranthesis checker\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
